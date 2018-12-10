@@ -1,0 +1,44 @@
+{
+	"groups": [
+		{
+			"keys": "Loading,Loading@atlas0_png",
+			"name": "preload"
+		},
+		{
+			"keys": "AllRes@atlas0_png,AllRes_fui,GameConfig,AllRes@atlas0_1_png",
+			"name": "AllRes"
+		}
+	],
+	"resources": [
+		{
+			"url": "ui/Loading.fui",
+			"type": "bin",
+			"name": "Loading"
+		},
+		{
+			"url": "ui/AllRes@atlas0.png",
+			"type": "image",
+			"name": "AllRes@atlas0_png"
+		},
+		{
+			"url": "ui/Loading@atlas0.png",
+			"type": "image",
+			"name": "Loading@atlas0_png"
+		},
+		{
+			"url": "ui/AllRes.fui",
+			"type": "bin",
+			"name": "AllRes_fui"
+		},
+		{
+			"url": "GameConfig.json",
+			"type": "json",
+			"name": "GameConfig"
+		},
+		{
+			"url": "ui/AllRes@atlas0_1.png",
+			"type": "image",
+			"name": "AllRes@atlas0_1_png"
+		}
+	]
+}

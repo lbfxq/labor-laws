@@ -1,0 +1,36 @@
+{
+    "level_list":{
+        "1":{
+            "id":1,
+            "fixed":1,
+            "x_count":3,
+            "y_count":1,
+            "max_num":1,
+            "max_num_count":2,
+            "grid_list":[0,1,1],
+            "base_score":50
+        },
+        "2":{
+            "id":2,
+            "fixed":0,
+            "x_count":3,
+            "y_count":3,
+            "max_num":3,
+            "max_num_count":1,
+            "grid_list":[],
+            "base_score":100
+        }
+    },
+    "contest_list":{
+        "1":{
+            "id":1,
+            "fixed":0,
+            "x_count":5,
+            "y_count":5,
+            "max_num":5,
+            "max_num_count":5,
+            "grid_list":[],
+            "base_score":10000
+        }
+    }   
+}

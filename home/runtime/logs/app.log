@@ -1,0 +1,791 @@
+2018-04-04 22:27:14 [::1][-][pdjavpnpamlgu08fh9oig79qg6][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method app\services\CommonServices::getHotArticles()' in E:\www\zcw\home\views\pc\common\hot.php:6
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#2 E:\www\zcw\home\views\pc\site\index.php(151): yii\base\View->render()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(328): ::unknown()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render()
+#7 E:\www\zcw\home\controllers\SiteController.php(50): yii\base\Controller->render()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\SiteController->actionIndex()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#10 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#11 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#12 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#13 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#14 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#15 {main}
+2018-04-04 22:28:19 [::1][-][pdjavpnpamlgu08fh9oig79qg6][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method app\services\CommonServices::getHotArticles()' in E:\www\zcw\home\views\pc\common\hot.php:6
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#2 E:\www\zcw\home\views\pc\site\index.php(151): yii\base\View->render()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(328): ::unknown()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render()
+#7 E:\www\zcw\home\controllers\SiteController.php(50): yii\base\Controller->render()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\SiteController->actionIndex()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#10 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#11 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#12 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#13 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#14 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#15 {main}
+2018-04-04 22:29:18 [::1][-][pdjavpnpamlgu08fh9oig79qg6][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method app\services\CommonServices::getHotArticles()' in E:\www\zcw\home\views\pc\common\hot.php:6
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#2 E:\www\zcw\home\views\pc\site\index.php(151): yii\base\View->render()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(328): ::unknown()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render()
+#7 E:\www\zcw\home\controllers\SiteController.php(50): yii\base\Controller->render()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\SiteController->actionIndex()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#10 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#11 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#12 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#13 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#14 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#15 {main}
+2018-04-04 22:31:25 [::1][-][pdjavpnpamlgu08fh9oig79qg6][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Trying to get property of non-object' in E:\www\zcw\home\controllers\VideoController.php:27
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-05 10:42:57 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\UnknownPropertyException] exception 'yii\base\UnknownPropertyException' with message 'Getting unknown property: common\models\DataCategory::category_id' in E:\www\zcw\common\vendor\yiisoft\yii2\base\Component.php:147
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\db\BaseActiveRecord.php(286): yii\base\Component->__get('category_id')
+#1 E:\www\zcw\home\controllers\SiteController.php(43): yii\db\BaseActiveRecord->__get('category_id')
+#2 [internal function]: app\controllers\SiteController->actionIndex()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('', Array)
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#9 {main}
+2018-04-05 10:43:12 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Undefined variable: select' in E:\www\zcw\common\models\DataCategory.php:73
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\SiteController->actionIndex()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#6 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#7 {main}
+2018-04-05 10:54:43 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\controllers\Exception' not found' in E:\www\zcw\home\controllers\CategoryController.php:37
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-05 10:56:05 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\controllers\Exception' not found' in E:\www\zcw\home\controllers\CategoryController.php:37
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-05 10:56:07 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'app\controllers\Exception' not found' in E:\www\zcw\home\controllers\CategoryController.php:37
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-05 10:57:34 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'Yii\base\Exception' not found' in E:\www\zcw\home\controllers\CategoryController.php:37
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-05 10:58:38 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\Exception] exception 'yii\base\Exception' with message 'è¯·æ±‚é”™è¯¯' in E:\www\zcw\home\controllers\CategoryController.php:38
+Stack trace:
+#0 [internal function]: app\controllers\CategoryController->actionIndex()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('category/index', Array)
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#7 {main}
+2018-04-05 10:58:40 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\Exception] exception 'yii\base\Exception' with message 'è¯·æ±‚é”™è¯¯' in E:\www\zcw\home\controllers\CategoryController.php:38
+Stack trace:
+#0 [internal function]: app\controllers\CategoryController->actionIndex()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('category/index', Array)
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#7 {main}
+2018-04-05 10:58:51 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\Exception] exception 'yii\base\Exception' with message 'è¯·æ±‚é”™è¯¯' in E:\www\zcw\home\controllers\CategoryController.php:38
+Stack trace:
+#0 [internal function]: app\controllers\CategoryController->actionIndex()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('category/index', Array)
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#7 {main}
+2018-04-05 10:58:52 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\Exception] exception 'yii\base\Exception' with message 'è¯·æ±‚é”™è¯¯' in E:\www\zcw\home\controllers\CategoryController.php:38
+Stack trace:
+#0 [internal function]: app\controllers\CategoryController->actionIndex()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('category/index', Array)
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#7 {main}
+2018-04-05 10:59:13 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\Exception] exception 'yii\base\Exception' with message 'è¯·æ±‚é”™è¯¯' in E:\www\zcw\home\controllers\CategoryController.php:38
+Stack trace:
+#0 [internal function]: app\controllers\CategoryController->actionIndex()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('category/index', Array)
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#7 {main}
+2018-04-05 11:01:49 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Trying to get property of non-object' in E:\www\zcw\home\controllers\ArticleController.php:27
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-05 11:06:08 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Undefined variable: categoryvideos' in E:\www\zcw\home\views\pc\article\index.php:91
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render()
+#3 E:\www\zcw\home\controllers\ArticleController.php(31): yii\base\Controller->render()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\ArticleController->actionIndex()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#10 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-04-05 11:06:52 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Undefined variable: categoryvideos' in E:\www\zcw\home\views\pc\article\index.php:90
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render()
+#3 E:\www\zcw\home\controllers\ArticleController.php(31): yii\base\Controller->render()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\ArticleController->actionIndex()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#10 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-04-05 11:06:55 [::1][-][8hpvvfb7efc4ptp3bknpppqte5][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Undefined variable: categoryvideos' in E:\www\zcw\home\views\pc\article\index.php:90
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render()
+#3 E:\www\zcw\home\controllers\ArticleController.php(31): yii\base\Controller->render()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\ArticleController->actionIndex()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#10 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-04-05 14:03:33 [::1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Undefined variable: value' in E:\www\zcw\home\views\pc\layouts\header.php:46
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#2 E:\www\zcw\home\views\pc\layouts\main.php(18): yii\base\View->render()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(328): ::unknown()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(396): yii\base\View->renderFile()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(382): yii\base\Controller->renderContent()
+#7 E:\www\zcw\home\controllers\CategoryController.php(36): yii\base\Controller->render()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\CategoryController->actionIndex()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#10 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#11 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#12 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#13 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#14 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#15 {main}
+2018-04-05 14:09:24 [::1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Trying to get property of non-object' in E:\www\zcw\home\controllers\VideoController.php:27
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-05 14:09:33 [::1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Trying to get property of non-object' in E:\www\zcw\home\controllers\VideoController.php:27
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-05 15:06:46 [::1][-][-][error][yii\base\ErrorException:4] exception 'yii\base\ErrorException' with message 'syntax error, unexpected end of file' in E:\www\zcw\home\views\pc\category\index.php:114
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render()
+#2 E:\www\zcw\home\controllers\CategoryController.php(38): yii\base\Controller->render()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\CategoryController->actionIndex()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#9 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#10 {main}
+2018-04-05 15:07:22 [::1][-][-][error][yii\base\ErrorException:4] exception 'yii\base\ErrorException' with message 'syntax error, unexpected end of file' in E:\www\zcw\home\views\pc\category\index.php:117
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render()
+#2 E:\www\zcw\home\controllers\CategoryController.php(38): yii\base\Controller->render()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\CategoryController->actionIndex()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#9 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#10 {main}
+2018-04-07 22:52:55 [::1][-][-][error][yii\base\UnknownMethodException] exception 'yii\base\UnknownMethodException' with message 'Calling unknown method: yii\web\Request::isPost()' in E:\www\zcw\common\vendor\yiisoft\yii2\base\Component.php:290
+Stack trace:
+#0 E:\www\zcw\home\controllers\ProjectController.php(40): yii\base\Component->__call('isPost', Array)
+#1 E:\www\zcw\home\controllers\ProjectController.php(40): yii\web\Request->isPost()
+#2 [internal function]: app\controllers\ProjectController->actionIndex()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('', Array)
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('project/', Array)
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#9 {main}
+2018-04-07 23:05:21 [::1][-][-][error][ParseError] ParseError: syntax error, unexpected '}' in E:\www\zcw\home\controllers\ProjectController.php:58
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#1 [internal function]: spl_autoload_call('app\\controllers...')
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(633): class_exists('app\\controllers...')
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(591): yii\base\Module->createControllerByID('project')
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(517): yii\base\Module->createController('')
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('project/', Array)
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#8 {main}
+2018-04-07 23:05:29 [::1][-][-][error][ParseError] ParseError: syntax error, unexpected '}' in E:\www\zcw\home\controllers\ProjectController.php:58
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#1 [internal function]: spl_autoload_call('app\\controllers...')
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(633): class_exists('app\\controllers...')
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(591): yii\base\Module->createControllerByID('project')
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(517): yii\base\Module->createController('')
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('project/', Array)
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#8 {main}
+2018-04-07 23:28:20 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Uninitialized string offset: 16021 in E:\www\zcw\home\controllers\ProjectController.php:58
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-07 23:28:28 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Uninitialized string offset: 16021 in E:\www\zcw\home\controllers\ProjectController.php:58
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-07 23:29:49 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Uninitialized string offset: 16021 in E:\www\zcw\home\controllers\ProjectController.php:58
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-07 23:30:32 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Uninitialized string offset: 16021 in E:\www\zcw\home\controllers\ProjectController.php:58
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-04-07 23:30:41 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Uninitialized string offset: 16021 in E:\www\zcw\home\controllers\ProjectController.php:58
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-05-01 21:37:39 [::1][-][-][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Setting unknown property: app\controllers\ProjectController::title in E:\www\zcw\common\vendor\yiisoft\yii2\base\Component.php:201
+Stack trace:
+#0 E:\www\zcw\home\controllers\ProjectController.php(18): yii\base\Component->__set('title', 'ab')
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(154): app\controllers\ProjectController->beforeAction(Object(yii\base\InlineAction))
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('project/index', Array)
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-05-13 11:09:05 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined variable: assets_url in E:\www\zcw\home\views\pc\project\index.php:149
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render()
+#3 E:\www\zcw\home\controllers\ProjectController.php(88): yii\base\Controller->render()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\ProjectController->actionIndex()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#10 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-05-13 11:14:04 [::1][-][-][error][Error] Error: Class 'Url' not found in E:\www\zcw\home\views\pc\project\result.php:3
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(328): require()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile('E:\\www\\zcw\\home...', Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile('E:\\www\\zcw\\home...', Array, Object(app\controllers\ProjectController))
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render('result', Array, Object(app\controllers\ProjectController))
+#4 E:\www\zcw\home\controllers\ProjectController.php(115): yii\base\Controller->render('result', Array)
+#5 [internal function]: app\controllers\ProjectController->actionResult()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('result', Array)
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('project/result', Array)
+#10 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#12 {main}
+2018-05-13 11:42:31 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined variable: title in E:\www\zcw\home\views\pc\layouts\header.php:7
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#2 E:\www\zcw\home\views\pc\layouts\project.php(20): yii\base\View->render()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(328): yii\base\View->unknown()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(396): yii\base\View->renderFile()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(382): yii\base\Controller->renderContent()
+#7 E:\www\zcw\home\controllers\ProjectController.php(88): yii\base\Controller->render()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\ProjectController->actionIndex()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#10 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#11 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#12 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#13 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#14 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#15 {main}
+2018-05-13 11:42:53 [::1][-][-][error][yii\base\UnknownMethodException] yii\base\UnknownMethodException: Calling unknown method: yii\web\View::getView() in E:\www\zcw\common\vendor\yiisoft\yii2\base\Component.php:290
+Stack trace:
+#0 E:\www\zcw\home\views\pc\layouts\header.php(7): yii\base\Component->__call('getView', Array)
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(328): require('E:\\www\\zcw\\home...')
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile('E:\\www\\zcw\\home...', Array)
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile('E:\\www\\zcw\\home...', Array, NULL)
+#4 E:\www\zcw\home\views\pc\layouts\project.php(20): yii\base\View->render('header.php')
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(328): require('E:\\www\\zcw\\home...')
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile('E:\\www\\zcw\\home...', Array)
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(396): yii\base\View->renderFile('E:\\www\\zcw\\home...', Array, Object(app\controllers\ProjectController))
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(382): yii\base\Controller->renderContent('<div class="mai...')
+#9 E:\www\zcw\home\controllers\ProjectController.php(88): yii\base\Controller->render('index', Array)
+#10 [internal function]: app\controllers\ProjectController->actionIndex()
+#11 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#12 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#13 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#14 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('project/index', Array)
+#15 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#17 {main}
+2018-05-13 13:02:44 [::1][-][-][error][Error] Error: Call to undefined function CommUtil() in E:\www\zcw\home\views\pc\site\index.php:42
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(328): require()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile('E:\\www\\zcw\\home...', Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile('E:\\www\\zcw\\home...', Array, Object(app\controllers\SiteController))
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render('index', Array, Object(app\controllers\SiteController))
+#4 E:\www\zcw\home\controllers\SiteController.php(50): yii\base\Controller->render('index', Array)
+#5 [internal function]: app\controllers\SiteController->actionIndex()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('site/index', Array)
+#10 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#12 {main}
+2018-05-13 13:23:52 [::1][-][-][error][Error] Error: Class 'CommUtil' not found in E:\www\zcw\home\views\pc\category\index.php:41
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(328): require()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile('E:\\www\\zcw\\home...', Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile('E:\\www\\zcw\\home...', Array, Object(app\controllers\CategoryController))
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render('index', Array, Object(app\controllers\CategoryController))
+#4 E:\www\zcw\home\controllers\CategoryController.php(40): yii\base\Controller->render('index', Array)
+#5 [internal function]: app\controllers\CategoryController->actionIndex()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('category/index', Array)
+#10 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#12 {main}
+2018-05-20 17:35:08 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/about in E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php:127
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('about', Array)
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('site/about', Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: é¡µé¢æœªæ‰¾åˆ°ã€‚ in E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-05-20 17:37:05 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/about in E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php:127
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('about', Array)
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('site/about', Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: é¡µé¢æœªæ‰¾åˆ°ã€‚ in E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-05-20 17:37:09 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/about in E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php:127
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('about', Array)
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('site/about', Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: é¡µé¢æœªæ‰¾åˆ°ã€‚ in E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-05-20 17:37:39 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/about in E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php:127
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('about', Array)
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('site/about', Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: é¡µé¢æœªæ‰¾åˆ°ã€‚ in E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-05-20 17:37:44 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/about in E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php:127
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('about', Array)
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('site/about', Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: é¡µé¢æœªæ‰¾åˆ°ã€‚ in E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-05-20 17:38:07 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/info in E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php:127
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('info', Array)
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('site/info', Array)
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: é¡µé¢æœªæ‰¾åˆ°ã€‚ in E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-05-20 17:43:00 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined variable: recommend in E:\www\zcw\home\views\pc\site\about.php:7
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render()
+#3 E:\www\zcw\home\controllers\SiteController.php(57): yii\base\Controller->render()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\SiteController->actionAbout()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#10 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-05-20 20:39:00 [::1][-][-][error][ParseError] ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in E:\www\zcw\home\controllers\ProjectController.php:69
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#1 [internal function]: spl_autoload_call('app\\controllers...')
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(633): class_exists('app\\controllers...')
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(591): yii\base\Module->createControllerByID('project')
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(517): yii\base\Module->createController('index')
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('project/index', Array)
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#8 {main}
+2018-05-20 20:46:58 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined variable: odmodel in E:\www\zcw\home\controllers\ProjectController.php:44
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#5 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-05-21 19:41:05 [::1][-][-][error][yii\db\Exception] PDOException: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+ in E:\www\zcw\common\vendor\yiisoft\yii2\db\Connection.php:630
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\db\Connection.php(630): PDO->__construct('mysql:host=loca...', 'root', '', NULL)
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\db\Connection.php(563): yii\db\Connection->createPdoInstance()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\db\Connection.php(896): yii\db\Connection->open()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\db\Connection.php(883): yii\db\Connection->getMasterPdo()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\db\Command.php(219): yii\db\Connection->getSlavePdo()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\db\Command.php(896): yii\db\Command->prepare(true)
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('fetchAll', NULL)
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\db\ActiveQuery.php(133): yii\db\Query->all(NULL)
+#9 E:\www\zcw\home\controllers\SiteController.php(36): yii\db\ActiveQuery->all()
+#10 [internal function]: app\controllers\SiteController->actionIndex()
+#11 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#12 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#13 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#14 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('', Array)
+#15 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#17 {main}
+
+Next yii\db\Exception: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+ in E:\www\zcw\common\vendor\yiisoft\yii2\db\Connection.php:568
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\db\Connection.php(896): yii\db\Connection->open()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\db\Connection.php(883): yii\db\Connection->getMasterPdo()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\db\Command.php(219): yii\db\Connection->getSlavePdo()
+#3 E:\www\zcw\common\vendor\yiisoft\yii2\db\Command.php(896): yii\db\Command->prepare(true)
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('fetchAll', NULL)
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\db\ActiveQuery.php(133): yii\db\Query->all(NULL)
+#7 E:\www\zcw\home\controllers\SiteController.php(36): yii\db\ActiveQuery->all()
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#10 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#11 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#12 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('', Array)
+#13 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#15 {main}
+Additional Information:
+
+2018-05-24 19:37:30 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined variable: assets_url in E:\www\zcw\home\views\pc\project\index.php:102
+Stack trace:
+#0 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile()
+#1 E:\www\zcw\common\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile()
+#2 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(381): yii\base\View->render()
+#3 E:\www\zcw\home\controllers\ProjectController.php(65): yii\base\Controller->render()
+#4 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\controllers\ProjectController->actionIndex()
+#5 E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#6 E:\www\zcw\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#7 E:\www\zcw\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#8 E:\www\zcw\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#9 E:\www\zcw\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#10 E:\www\zcw\home\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-10-05 22:49:28 [::1][-][-][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: app\modules\api\controllers\LoginController::formatType in E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Component.php:147
+Stack trace:
+#0 E:\www\zcw_new\home\modules\api\controllers\ApiController.php(19): yii\base\Component->__get('formatType')
+#1 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Component.php(650): app\modules\api\controllers\ApiController->behaviors()
+#2 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Component.php(533): yii\base\Component->ensureBehaviors()
+#3 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Controller.php(272): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#4 E:\www\zcw_new\common\vendor\yiisoft\yii2\web\Controller.php(164): yii\base\Controller->beforeAction(Object(yii\base\InlineAction))
+#5 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Controller.php(154): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#6 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('login', Array)
+#7 E:\www\zcw_new\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('api/login/login', Array)
+#8 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 E:\www\zcw_new\home\web\index.php(17): yii\base\Application->run()
+#10 {main}
+2018-10-05 22:56:37 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined offset: 1 in E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php:1433
+Stack trace:
+#0 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(861): yii\db\QueryBuilder->buildCondition()
+#1 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(100): yii\db\QueryBuilder->buildWhere()
+#2 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(319): yii\db\QueryBuilder->build()
+#3 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\Query.php(253): yii\db\ActiveQuery->createCommand()
+#4 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(295): yii\db\Query->one()
+#5 E:\www\zcw_new\home\modules\api\controllers\LoginController.php(26): yii\db\ActiveQuery->one()
+#6 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\modules\api\controllers\LoginController->actionLogin()
+#7 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#8 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#9 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#10 E:\www\zcw_new\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#11 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#12 E:\www\zcw_new\home\web\index.php(17): yii\base\Application->run()
+#13 {main}
+2018-10-05 22:57:56 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined offset: 1 in E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php:1433
+Stack trace:
+#0 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(861): yii\db\QueryBuilder->buildCondition()
+#1 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(100): yii\db\QueryBuilder->buildWhere()
+#2 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(319): yii\db\QueryBuilder->build()
+#3 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\Query.php(253): yii\db\ActiveQuery->createCommand()
+#4 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(295): yii\db\Query->one()
+#5 E:\www\zcw_new\home\modules\api\controllers\LoginController.php(26): yii\db\ActiveQuery->one()
+#6 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\modules\api\controllers\LoginController->actionLogin()
+#7 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#8 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#9 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#10 E:\www\zcw_new\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#11 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#12 E:\www\zcw_new\home\web\index.php(17): yii\base\Application->run()
+#13 {main}
+2018-10-05 22:58:07 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined offset: 1 in E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php:1433
+Stack trace:
+#0 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(861): yii\db\QueryBuilder->buildCondition()
+#1 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(100): yii\db\QueryBuilder->buildWhere()
+#2 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(319): yii\db\QueryBuilder->build()
+#3 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\Query.php(253): yii\db\ActiveQuery->createCommand()
+#4 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(295): yii\db\Query->one()
+#5 E:\www\zcw_new\home\modules\api\controllers\LoginController.php(26): yii\db\ActiveQuery->one()
+#6 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\modules\api\controllers\LoginController->actionLogin()
+#7 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#8 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#9 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#10 E:\www\zcw_new\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#11 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#12 E:\www\zcw_new\home\web\index.php(17): yii\base\Application->run()
+#13 {main}
+2018-10-05 23:02:37 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined offset: 1 in E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php:1433
+Stack trace:
+#0 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(861): yii\db\QueryBuilder->buildCondition()
+#1 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(100): yii\db\QueryBuilder->buildWhere()
+#2 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(319): yii\db\QueryBuilder->build()
+#3 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\Query.php(253): yii\db\ActiveQuery->createCommand()
+#4 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(295): yii\db\Query->one()
+#5 E:\www\zcw_new\home\modules\api\controllers\LoginController.php(26): yii\db\ActiveQuery->one()
+#6 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\modules\api\controllers\LoginController->actionLogin()
+#7 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#8 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#9 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#10 E:\www\zcw_new\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#11 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#12 E:\www\zcw_new\home\web\index.php(17): yii\base\Application->run()
+#13 {main}
+2018-10-05 23:03:26 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined offset: 1 in E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php:1433
+Stack trace:
+#0 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(861): yii\db\QueryBuilder->buildCondition()
+#1 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(100): yii\db\QueryBuilder->buildWhere()
+#2 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(319): yii\db\QueryBuilder->build()
+#3 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\Query.php(253): yii\db\ActiveQuery->createCommand()
+#4 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(295): yii\db\Query->one()
+#5 E:\www\zcw_new\home\modules\api\controllers\LoginController.php(26): yii\db\ActiveQuery->one()
+#6 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\modules\api\controllers\LoginController->actionLogin()
+#7 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#8 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#9 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#10 E:\www\zcw_new\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#11 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#12 E:\www\zcw_new\home\web\index.php(17): yii\base\Application->run()
+#13 {main}
+2018-10-05 23:07:34 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined offset: 1 in E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php:1433
+Stack trace:
+#0 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(861): yii\db\QueryBuilder->buildCondition()
+#1 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(100): yii\db\QueryBuilder->buildWhere()
+#2 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(319): yii\db\QueryBuilder->build()
+#3 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\Query.php(253): yii\db\ActiveQuery->createCommand()
+#4 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(295): yii\db\Query->one()
+#5 E:\www\zcw_new\home\modules\api\controllers\LoginController.php(26): yii\db\ActiveQuery->one()
+#6 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\modules\api\controllers\LoginController->actionLogin()
+#7 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#8 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#9 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#10 E:\www\zcw_new\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#11 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#12 E:\www\zcw_new\home\web\index.php(17): yii\base\Application->run()
+#13 {main}
+2018-10-05 23:08:00 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined offset: 1 in E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php:1433
+Stack trace:
+#0 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(861): yii\db\QueryBuilder->buildCondition()
+#1 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(100): yii\db\QueryBuilder->buildWhere()
+#2 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(319): yii\db\QueryBuilder->build()
+#3 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\Query.php(253): yii\db\ActiveQuery->createCommand()
+#4 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(295): yii\db\Query->one()
+#5 E:\www\zcw_new\home\modules\api\controllers\LoginController.php(26): yii\db\ActiveQuery->one()
+#6 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\modules\api\controllers\LoginController->actionLogin()
+#7 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#8 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#9 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#10 E:\www\zcw_new\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#11 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#12 E:\www\zcw_new\home\web\index.php(17): yii\base\Application->run()
+#13 {main}
+2018-10-05 23:08:30 [::1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined offset: 1 in E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php:1433
+Stack trace:
+#0 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(861): yii\db\QueryBuilder->buildCondition()
+#1 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\QueryBuilder.php(100): yii\db\QueryBuilder->buildWhere()
+#2 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(319): yii\db\QueryBuilder->build()
+#3 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\Query.php(253): yii\db\ActiveQuery->createCommand()
+#4 E:\www\zcw_new\common\vendor\yiisoft\yii2\db\ActiveQuery.php(295): yii\db\Query->one()
+#5 E:\www\zcw_new\home\modules\api\controllers\LoginController.php(26): yii\db\ActiveQuery->one()
+#6 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): app\modules\api\controllers\LoginController->actionLogin()
+#7 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{E:\www\zcw_new\common\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#8 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#9 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction()
+#10 E:\www\zcw_new\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#11 E:\www\zcw_new\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest()
+#12 E:\www\zcw_new\home\web\index.php(17): yii\base\Application->run()
+#13 {main}
+2018-10-09 20:24:57 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "api/article/list". in E:\www\zcw_labor-laws\common\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 E:\www\zcw_labor-laws\common\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('api/article/lis...', Array)
+#1 E:\www\zcw_labor-laws\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 E:\www\zcw_labor-laws\home\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: é¡µé¢æœªæ‰¾åˆ°ã€‚ in E:\www\zcw_labor-laws\common\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 E:\www\zcw_labor-laws\common\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 E:\www\zcw_labor-laws\home\web\index.php(17): yii\base\Application->run()
+#2 {main}

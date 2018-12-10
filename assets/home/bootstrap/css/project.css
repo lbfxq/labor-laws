@@ -1,0 +1,99 @@
+.hide{
+	display: none;
+}
+.maincontent{
+	width: 1000px;
+	margin: 0 auto;
+	padding:20px;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+h1{
+	font-size:30px;
+	margin-bottom:20px;
+	padding-bottom:10px;
+	text-align: center;
+}
+.boxtitle{
+	font-size:18px;
+	margin:10px 0;
+	font-weight: bold;
+	border-bottom:1px solid #ccc;
+	padding-bottom:10px;
+}
+.contentbox{
+	text-align: left;
+}
+.box{
+}
+.category,.project{
+    padding:0 !important;
+}
+.category li{
+	margin-bottom:20px;
+}
+.project{
+	margin-top:10px;
+}
+.project li{
+	margin-bottom:10px;
+}
+.area li{
+	margin-bottom:0px;
+	float:left;
+	padding:0px 10px 0px 0;
+}
+.projectlcontent{
+	margin-left:20px;
+}
+.projectlcontent dt{
+	float:left;
+	width: 13%;
+	padding:5px 0;
+}
+.projectlcontent dd{
+	float:left;
+	width: 87%;
+	padding:5px 0;
+}
+.items{
+	padding:5px 0;
+}
+.items .title{
+	float:left;
+	width: 28%;
+}
+.items .content{
+	float:left;
+	width:72%;
+}
+.submit{
+	padding:20px 0;
+}
+.contentleft{
+	float:left;
+	width: 48%;
+	padding-right: 2%;
+	border-right: 1px dotted #ccc;
+}
+.contentright{
+	float: left;
+	width: 48%;
+	padding-left: 2%;
+}
+.contentright h3{
+	font-size:16px;
+	margin-bottom: 10px;
+}
+.mast{
+	color:#f00;
+}
+.submit{
+    text-align: center;
+}
+
+.formbox{
+    width: 100%;
+    padding:100px 0;
+    text-align: center;
+}

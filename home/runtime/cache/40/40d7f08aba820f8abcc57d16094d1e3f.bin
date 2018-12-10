@@ -1,0 +1,26 @@
+a:2:{i:0;a:9:{s:12:"cacheVersion";i:1;s:9:"cacheData";N;s:7:"content";s:709:"<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+</head>
+<body>
+<div id="wrapper">
+    <div id="page-wrapper" class="gray-bg">
+            <div class="row border-bottom">
+                <div>header-pc</div>            </div>
+            <div class="wrapper wrapper-content">
+                <form method="post" action="">
+	邮箱<input type="text" name="email" value="">
+	密码<input type="password" name="pwd" value="">
+	<input type="submit" value="登录">
+</form>
+            </div>
+    </div>
+</div>
+</body>
+</html>
+
+";s:19:"dynamicPlaceholders";N;s:6:"format";s:4:"html";s:7:"version";s:3:"1.1";s:10:"statusCode";i:200;s:10:"statusText";s:2:"OK";s:7:"headers";a:1:{s:12:"content-type";a:1:{i:0;s:24:"text/html; charset=UTF-8";}}}i:1;N;}
